@@ -73,6 +73,15 @@ I am a Full Stack Python Developer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
 </div>
 
+#### Dev Tools
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github-Actions" alt="Github-Actions" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache-Airflow" alt="Apache-Airflow" width="40" height="40"/>&nbsp;
+</div>
+
 ---
 
 ### :fire: My Stats :
@@ -80,4 +89,4 @@ I am a Full Stack Python Developer <img src="https://media.giphy.com/media/WUlpl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imirghania&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+

@@ -39,7 +39,13 @@ I am a Full Stack Python Developer <img src="https://media.giphy.com/media/WUlpl
 ### :hammer_and_wrench: Technical stack :
 #### Programming Languages
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+#### Backend
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Fastapi" alt="Fastapi" width="40" height="40"/>&nbsp;
 </div>
 
 ---

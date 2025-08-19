@@ -71,7 +71,10 @@ I am a Full Stack Python Developer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png](https://github.com/lobehub/lobe-icons/blob/master/packages/static-png/dark/huggingface-color.png" title="HuggingFace" alt="HuggingFace" width="40" height="40" />
+  <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/huggingface-color.svg" title="HuggingFace" alt="HuggingFace" width="40" height="40" />
+  <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langchain-color.svg" title="Langchain" alt="Langchain" width="40" height="40" />
+  <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/langgraph-color.svg" title="Langgraph" alt="Langgraph" width="40" height="40" />
+  <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40" />
 </div>
 
 #### Dev Tools
